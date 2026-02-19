@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "EZ DO DANCE",
+  "base_artist": "TRF",
+  "createdAt": "2026-02-19T05:18:53.848017Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "EZ DO DANCE",
+      "artist": "TRF",
+      "has_synced": false,
+      "path": "select/01_EZ_DO_DANCE_TRF.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ez Do Dance",
+      "artist": "Baek Z Young",
+      "has_synced": false,
+      "path": "select/02_Ez_Do_Dance_Baek_Z_Young.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ez Do Dance",
+      "artist": "Baek Ji Young",
+      "has_synced": false,
+      "path": "select/03_Ez_Do_Dance_Baek_Ji_Young.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ez Do Dance (Morris Capaldi vs. TRF remix)",
+      "artist": "TRF",
+      "has_synced": false,
+      "path": "select/04_Ez_Do_Dance_(Morris_Capaldi_vs._TRF_remix)_TRF.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "EZ Do Dance (Morris Capaldi Versus TRF Remix)",
+      "artist": "Super Eurobeat",
+      "has_synced": false,
+      "path": "select/05_EZ_Do_Dance_(Morris_Capaldi_Versus_TRF_Remix)_Super_Eurobeat.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "EZ DO DANCE",
+      "artist": "Prizmmy☆",
+      "has_synced": true,
+      "path": "select/06_EZ_DO_DANCE_Prizmmy☆.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ez do dance (morris capaldi versus trf remix)",
+      "artist": "trf",
+      "has_synced": false,
+      "path": "select/07_ez_do_dance_(morris_capaldi_versus_trf_remix)_trf.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "EZ DO DANCE",
+      "artist": "TRF",
+      "has_synced": true,
+      "path": "select/08_EZ_DO_DANCE_TRF.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "EZ DO DANCE",
+      "artist": "TRF",
+      "has_synced": true,
+      "path": "select/09_EZ_DO_DANCE_TRF.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "EZ DO DANCE",
+      "artist": "TRF",
+      "has_synced": true,
+      "path": "select/10_EZ_DO_DANCE_TRF.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "EZ　DO　DANCE(DJ.COO　ver.)",
+      "artist": "森久保祥太郎",
+      "has_synced": false,
+      "path": "select/11_EZ_DO_DANCE(DJ.COO_ver.)_森久保祥太郎.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "EZ Do Dance (Morris Capaldi Versus TRF Remix)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/12_EZ_Do_Dance_(Morris_Capaldi_Versus_TRF_Remix)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "EZ DO DANCE",
+      "artist": "Prizmmy☆ & プリズム☆メイツ",
+      "has_synced": false,
+      "path": "select/13_EZ_DO_DANCE_Prizmmy☆_&_プリズム☆メイツ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "EZ DO DANCE",
+      "artist": "TRF",
+      "has_synced": true,
+      "path": "select/14_EZ_DO_DANCE_TRF.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EZ DO DANCE",
+      "artist": "TRF",
+      "has_synced": false,
+      "path": "select/pl_01_EZ_DO_DANCE_TRF.txt"
+    }
+  ]
+}
